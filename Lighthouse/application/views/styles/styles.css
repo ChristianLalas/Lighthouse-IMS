@@ -1,0 +1,89 @@
+body {
+	font-family: Raleway, sans-serif;
+}
+h1 {
+	font-weight: 700;
+	line-height: 70%;
+}
+h1 span {
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: #808080;
+	font-weight: 700;
+}
+h2 {
+	font-weight: 300;
+    color: #101010;
+    letter-spacing: 2px;
+    font-size: 30px;
+    margin: -10px 0 10px;
+}
+.right {
+	float: right;
+}
+.panel-body {
+    padding: 15px;
+    min-height: 100px;
+ }
+ .cor-add {
+ 	margin-top: 15px;
+ }
+/*******content-deliveries.php*******/
+button.right {
+	margin: 0 5px;
+}
+/******inventory-buttons******/
+.inventory-buttons a {
+	padding: 8px 13px;
+}
+.inventory-buttons .btn {
+	padding: 8px 0;
+}
+/********LOGIN*********/
+.login-panel {
+    margin-top: 10px;
+}
+.form-control {
+	background-image: url(images/User.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+/******Nav********/
+nav h3 {
+	display: inline-block;
+	font-size: 20px !important;
+	margin-right: 5px;
+}
+.navbar-top-links li a {
+	padding: 14px 10px 24px !important;
+}
+.navbar-top-links .dropdown-user li a {
+	padding: 7px 10px !important;
+}
+.page-header {
+	margin: 20px 0 !important;
+}
+.little-logo {
+	width: 213px;
+    height: 90px;
+}
+.sidebar {
+	margin-top: 0% !important;
+}
+/******FOOTER*******/
+footer {
+	padding: 10px 0;
+}
+footer p {
+	margin: 0 !important;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+footer p:nth-of-type(1) {
+	font-size: 17px;
+}
+footer p:nth-of-type(2) {
+	font-size: 12px;
+	letter-spacing: 2px;
+}
